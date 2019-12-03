@@ -1,2 +1,3 @@
-# trabajo
-trabajo nro1
+# trabajo 05
+integrantes
+fernandez gastelo dali marisol
